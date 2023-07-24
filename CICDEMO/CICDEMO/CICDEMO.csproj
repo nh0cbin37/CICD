@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="bin\Debug\netcoreapp3.1\publish\web.config" />
+  </ItemGroup>
+
 </Project>
