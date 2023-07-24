@@ -17,8 +17,6 @@ C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.MvcApplicationPartsAs
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.RazorAssemblyInfo.cache
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.RazorAssemblyInfo.cs
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\staticwebassets\CICDEMO.StaticWebAssets.Manifest.cache
-C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\staticwebassets\CICDEMO.StaticWebAssets.xml
-C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\scopedcss\bundle\CICDEMO.styles.css
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.TagHelpers.input.cache
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.TagHelpers.output.cache
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.RazorCoreGenerate.cache
@@ -36,3 +34,5 @@ C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.dll
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.pdb
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.genruntimeconfig.cache
 C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\CICDEMO.csproj.CopyComplete
+C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\staticwebassets\CICDEMO.StaticWebAssets.xml
+C:\WWW\Web\CICDEMO\CICDEMO\obj\Debug\netcoreapp3.1\scopedcss\bundle\CICDEMO.styles.css
